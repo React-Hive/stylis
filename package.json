@@ -1,12 +1,18 @@
 {
-  "name": "stylis",
+  "name": "@react-hive/stylis",
   "version": "4.3.7",
   "license": "MIT",
   "description": "A Light–weight CSS Preprocessor",
-  "homepage": "https://github.com/thysultan/stylis.js",
+  "homepage": "https://github.com/React-Hive/stylis",
   "author": "Sultan Tarimo <sultantarimo@me.com>",
-  "repository": "https://github.com/thysultan/stylis.js",
-  "bugs": "https://github.com/thysultan/stylis.js/issues",
+  "contributors": [
+    {
+      "name": "Mykhailo Aliinyk",
+      "email": "m.aliynik@gmail.com"
+    }
+  ],
+  "repository": "https://github.com/React-Hive/stylis",
+  "bugs": "https://github.com/React-Hive/stylis/issues",
   "sideEffects": false,
   "type": "module",
   "main": "dist/umd/stylis.js",
